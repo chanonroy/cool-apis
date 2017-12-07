@@ -1,16 +1,16 @@
-## Table of Contents
+## Categories
 
-- [Books](#books)
-- [Entertainment](#entertainment)
-- [Events](#events)
-- [Food](#food)
-- [Gaming](#gaming)
-- [Jobs](#jobs)
-- [Movies](#movies)
-- [Retail](#retail)
-- [Social](#social)
-- [Space](#space)
-- [Transportation](#transportation)
+- [:books: Books](#books)
+- [:tv: Entertainment](#entertainment)
+- [:calendar: Events](#events)
+- [:hamburger: Food](#food)
+- [:video_game: Gaming](#gaming)
+- [:briefcase: Jobs](#jobs)
+- [:clapper: Movies](#movies)
+- [:credit_card: Retail](#retail)
+- [:camera: Social](#social)
+- [:stars: Space](#space)
+- [:truck: Transportation](#transportation)
 
 ## Full API List
 
