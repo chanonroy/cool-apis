@@ -1,25 +1,32 @@
 ## Categories
 
 - [:books: Books](#books)
+- [:art: Design](#design)
 - [:tv: Entertainment](#entertainment)
 - [:calendar: Events](#events)
+- [:chart_with_upwards_trend: Finance](#finance)
 - [:hamburger: Food](#food)
 - [:video_game: Gaming](#gaming)
 - [:briefcase: Jobs](#jobs)
-- [:robot: Machine Learning](#machinelearning)
+- [:robot: Machine Learning](#machine-learning)
 - [:clapper: Movies](#movies)
 - [:earth_americas: Places](#places)
 - [:credit_card: Retail](#retail)
 - [:camera: Social](#social)
 - [:stars: Space](#space)
 - [:truck: Transportation](#transportation)
-- [:cloud:: Weather](#weather)
+- [:cloud: Weather](#weather)
+- [:zap: Other](#other)
 
 ## Full API List
 
 ### Books
 
 - [Goodreads](https://www.goodreads.com/api) 
+
+### Design
+
+- [Dribble](http://developer.dribbble.com/v1/)
 
 ### Development
 
@@ -28,6 +35,7 @@
 ### Entertainment
 
 - [Marvel Comics](http://developer.marvel.com/)
+- [Pokemon](https://pokeapi.co/)
 - [reddit](https://www.reddit.com/dev/api/)
 - [Spotify](https://developer.spotify.com/web-api/)
 - [Star Wars](https://swapi.co/) 
@@ -37,6 +45,10 @@
 - [Eventbrite](https://www.eventbrite.com/developer/v3/) 
 - [Groupon](http://partner-api.groupon.com/help)*
 - [Meetup](https://www.meetup.com/meetup_api/) 
+
+### Finance
+
+- [IEX](https://iextrading.com/developer/) - Stock and Market Data
 
 ### Food
 
@@ -93,3 +105,11 @@
 
 - [Edmunds](http://developer.edmunds.com/) - vehicle make/model/trim data
 - [Uber](https://developer.uber.com/) - ride requests, trip experiences, driver, and deliveries
+
+### Weather
+
+- [Wunderground](https://www.wunderground.com/weather/api/)
+
+### Other
+
+- [RoboHash](https://robohash.org/) - generate some unique robot/alien/monster/whatever images for any text
