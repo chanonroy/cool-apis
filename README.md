@@ -1,6 +1,8 @@
 ## Categories
 
 - [:books: Books](#books)
+- [:cloud: Cloud Storage](#cloud-storage)
+- [:gem: Cryptocurrency](#cryptocurrency)
 - [:art: Design](#design)
 - [:tv: Entertainment](#entertainment)
 - [:calendar: Events](#events)
@@ -12,10 +14,11 @@
 - [:clapper: Movies](#movies)
 - [:earth_americas: Places](#places)
 - [:credit_card: Retail](#retail)
-- [:camera: Social](#social)
+- [:iphone: SMS](#sms)
+- [:speech_balloon: Social](#social)
 - [:stars: Space](#space)
 - [:truck: Transportation](#transportation)
-- [:cloud: Weather](#weather)
+- [:snowflake: Weather](#weather)
 - [:zap: Other](#other)
 
 ## Full API List
@@ -23,6 +26,19 @@
 ### Books
 
 - [Goodreads](https://www.goodreads.com/api) 
+- [Google Books](https://developers.google.com/books/)
+
+### Cloud Storage
+
+- [Google Drive](https://developers.google.com/drive/)
+- [One Drive](https://developer.microsoft.com/en-us/onedrive)
+- [Dropbox](https://www.dropbox.com/developers)
+
+### Cryptocurrency
+
+- [Coinbase](https://developers.coinbase.com/) - buy widget, wallet api, notifications
+- [CoinDesk](https://www.coindesk.com/api/) - Bitcoin Price Index
+- [NiceHash](https://www.nicehash.com/software-developers)
 
 ### Design
 
@@ -103,6 +119,10 @@
 - [Wal-Mart](https://developer.walmartlabs.com/)
 - [eBay](https://go.developer.ebay.com/)*
 
+### SMS
+
+- [Twilio](https://www.twilio.com/) - an API to exchange text and picture messages
+
 ### Social
 
 - [Instagram](https://www.instagram.com/developer/)
@@ -110,6 +130,7 @@
 - [Discord](https://discordapp.com/developers/docs/intro)
 - [Slack](https://api.slack.com/)
 - [Skype](https://dev.skype.com/)
+- [Medium](https://github.com/Medium/medium-api-docs)
 
 ### Space
 
@@ -120,6 +141,8 @@
 
 - [Edmunds](http://developer.edmunds.com/) - vehicle make/model/trim data
 - [Uber](https://developer.uber.com/) - ride requests, trip experiences, driver, and deliveries
+- [TTC](https://myttc.ca/developers) - Toronto transit
+- [OC Transpo](http://www.octranspo.com/developers) - Ottawa transit
 
 ### Weather
 
