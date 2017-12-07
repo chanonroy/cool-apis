@@ -26,7 +26,9 @@
 
 ### Design
 
+- [DeviantArt](https://www.deviantart.com/developers/)
 - [Dribble](http://developer.dribbble.com/v1/)
+- [ShutterStock](https://developers.shutterstock.com/)*
 
 ### Development
 
@@ -35,6 +37,7 @@
 ### Entertainment
 
 - [Marvel Comics](http://developer.marvel.com/)
+- [Pinterest](https://developers.pinterest.com/docs/getting-started/introduction/?)
 - [Pokemon](https://pokeapi.co/)
 - [reddit](https://www.reddit.com/dev/api/)
 - [Spotify](https://developer.spotify.com/web-api/)
@@ -49,6 +52,7 @@
 ### Finance
 
 - [IEX](https://iextrading.com/developer/) - Stock and Market Data
+- [QuesTrade](http://www.questrade.com/api) - account info, market data, streaming access, place orders
 
 ### Food
 
@@ -61,6 +65,7 @@
 - [Giant Bomb](https://www.giantbomb.com/api/) - video game metadata, used by Twitch
 - [IGDb](https://www.igdb.com/api) - video game metadata
 - [TheGamesDB.net](http://wiki.thegamesdb.net/index.php?title=API_Introduction) - video game metadata
+- [MobyGames](http://www.mobygames.com/info/api) - game metadata
 - [Steam](https://developer.valvesoftware.com/wiki/Steam_Web_API) - steam news, user global and individual stats
 - [Eve Online](https://developer.riotgames.com/) - characters, industries, markets, solars system, alliances, corporations
 - [Battle.net](https://dev.battle.net/) - D3, WoW, SC2, Community APIs, Game Data APIs
@@ -69,6 +74,7 @@
 
 - [GitHub Jobs](https://jobs.github.com/api) 
 - [Indeed Publisher](https://www.indeed.com/publisher)*
+- [Glassdoor](https://www.glassdoor.ca/developer/index.htm) - job listings and company data
 
 ### Machine Learning
 
@@ -84,17 +90,26 @@
 
 ### Places
 
+- [AirBnb](https://www.airbnb.ca/partner?locale=en)
 - [Yelp](https://www.yelp.com/developers) - business API, historical trends, Yelp Advertising Partners
 
 
 ### Retail
 
 - [Amazon Affiliate](https://affiliate-program.amazon.com/)*
+- [Best Buy](https://developer.bestbuy.com/)*
+- [Apple Affiliate Program](https://www.apple.com/shop/browse/affiliate_program)*
+- [Shopify](https://developers.shopify.com/)
+- [Wal-Mart](https://developer.walmartlabs.com/)
+- [eBay](https://go.developer.ebay.com/)*
 
 ### Social
 
 - [Instagram](https://www.instagram.com/developer/)
 - [Facebook](https://developers.facebook.com/docs/graph-api/)
+- [Discord](https://discordapp.com/developers/docs/intro)
+- [Slack](https://api.slack.com/)
+- [Skype](https://dev.skype.com/)
 
 ### Space
 
@@ -112,4 +127,6 @@
 
 ### Other
 
-- [RoboHash](https://robohash.org/) - generate some unique robot/alien/monster/whatever images for any text
+- [RoboHash](https://robohash.org/) - Makes it easy to provide unique, robot/alien/monster/whatever images for any text.
+
+** Has affiliate program
