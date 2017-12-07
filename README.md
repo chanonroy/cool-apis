@@ -1,6 +1,7 @@
 ## Table of Contents
 
 - [Books](#books)
+- [Entertainment](#entertainment)
 - [Events](#events)
 - [Food](#food)
 - [Gaming](#gaming)
@@ -20,6 +21,12 @@
 ### Development
 
 - [GitHub](https://developer.github.com/v3/) 
+
+### Entertainment
+
+- [reddit](https://www.reddit.com/dev/api/) 
+- [Spotify](https://developer.spotify.com/web-api/)
+- [Star Wars](https://swapi.co/) 
 
 ### Events
 
@@ -63,4 +70,5 @@
 
 ### Transportation
 
+- [Edmunds](http://developer.edmunds.com/)
 - [Uber](https://developer.uber.com/)
