@@ -108,6 +108,7 @@
 
 - [AirBnb](https://www.airbnb.ca/partner?locale=en)
 - [Yelp](https://www.yelp.com/developers) - business API, historical trends, Yelp Advertising Partners
+- [WalkScore](https://www.walkscore.com/professional/api.php) - walking score for any location
 
 
 ### Retail
