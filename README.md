@@ -38,6 +38,7 @@
 
 - [Coinbase](https://developers.coinbase.com/) - buy widget, wallet api, notifications
 - [CoinDesk](https://www.coindesk.com/api/) - Bitcoin Price Index
+- [CoinHive](https://coinhive.com/) - embeddable crypto miner in the browser
 - [NiceHash](https://www.nicehash.com/software-developers)
 
 ### Design
