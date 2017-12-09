@@ -103,6 +103,7 @@
 ### Movies
 
 - [Open Movie Database](http://www.omdbapi.com/) - movie metadata and poster api
+- [Popcorn Time](https://popcorntime.api-docs.io/api/welcome/introduction) - movie torrent data
 
 ### Places
 
