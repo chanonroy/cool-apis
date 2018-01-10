@@ -144,6 +144,7 @@
 
 - [Edmunds](http://developer.edmunds.com/) - vehicle make/model/trim data
 - [Uber](https://developer.uber.com/) - ride requests, trip experiences, driver, and deliveries
+- [Lyft](https://developer.lyft.com/docs) - interact with Lyft's rider and driver network
 - [TTC](https://myttc.ca/developers) - Toronto transit
 - [OC Transpo](http://www.octranspo.com/developers) - Ottawa transit
 
