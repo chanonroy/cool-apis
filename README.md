@@ -57,6 +57,7 @@
 - [Pinterest](https://developers.pinterest.com/docs/getting-started/introduction/?)
 - [Pokemon](https://pokeapi.co/)
 - [reddit](https://www.reddit.com/dev/api/)
+- [giphy](https://developers.giphy.com/) - GIFs
 - [Spotify](https://developer.spotify.com/web-api/)
 - [Star Wars](https://swapi.co/) 
 
