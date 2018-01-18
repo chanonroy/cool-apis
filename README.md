@@ -4,6 +4,7 @@
 - [:cloud: Cloud Storage](#cloud-storage)
 - [:gem: Cryptocurrency](#cryptocurrency)
 - [:art: Design](#design)
+- [:education: Education](#education)
 - [:tv: Entertainment](#entertainment)
 - [:calendar: Events](#events)
 - [:chart_with_upwards_trend: Finance](#finance)
@@ -50,6 +51,10 @@
 ### Development
 
 - [GitHub](https://developer.github.com/v3/) 
+
+### Education
+
+- [Chegg Tutors](https://www.chegg.com/affiliate-program/)* - Online tutor service
 
 ### Entertainment
 
