@@ -4,7 +4,7 @@
 - [:cloud: Cloud Storage](#cloud-storage)
 - [:gem: Cryptocurrency](#cryptocurrency)
 - [:art: Design](#design)
-- [:education: Education](#education)
+- [:notebook: Education](#education)
 - [:tv: Entertainment](#entertainment)
 - [:calendar: Events](#events)
 - [:chart_with_upwards_trend: Finance](#finance)
