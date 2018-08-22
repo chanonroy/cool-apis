@@ -55,7 +55,7 @@
 ### Education
 
 - [Chegg Tutors](https://www.chegg.com/affiliate-program/)* - Online tutor service
-= [Udemy](https://www.udemy.com/developers/)* = Online courses
+- [Udemy](https://www.udemy.com/developers/)* = Online courses
 
 ### Entertainment
 
