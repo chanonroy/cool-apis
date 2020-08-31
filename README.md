@@ -45,7 +45,7 @@
 ### Design
 
 - [DeviantArt](https://www.deviantart.com/developers/)
-- [Dribble](http://developer.dribbble.com/v1/)
+- [Dribble](http://developer.dribbble.com/v2/)
 - [ShutterStock](https://developers.shutterstock.com/)*
 
 ### Development
