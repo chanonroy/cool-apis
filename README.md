@@ -6,7 +6,7 @@
 - [:art: Design](#design)
 - [:notebook: Education](#education)
 - [:tv: Entertainment](#entertainment)
-- [:calendar: Events](#events)
+- [🥳 Events](#events)
 - [:chart_with_upwards_trend: Finance](#finance)
 - [:hamburger: Food](#food)
 - [:video_game: Gaming](#gaming)
@@ -15,6 +15,7 @@
 - [:clapper: Movies](#movies)
 - [:earth_americas: Places](#places)
 - [:credit_card: Retail](#retail)
+- [📆 Scheduling](#scheduling)
 - [:iphone: SMS](#sms)
 - [:speech_balloon: Social](#social)
 - [:stars: Space](#space)
@@ -128,6 +129,12 @@
 - [Shopify](https://developers.shopify.com/)
 - [Wal-Mart](https://developer.walmartlabs.com/)
 - [eBay](https://go.developer.ebay.com/)*
+
+### Scheduling
+- [Spurwing](https://www.spurwing.io/) - Appointment Scheduling API for Software Engineering Teams
+- [Cronofy](https://www.cronofy.com/developers/)
+- [Nylas](https://www.nylas.com/products/calendar-api/)
+- [Timekit](https://www.timekit.io/)
 
 ### SMS
 
